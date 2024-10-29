@@ -1,0 +1,14 @@
+.App {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
